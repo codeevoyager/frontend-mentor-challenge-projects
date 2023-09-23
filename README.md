@@ -5,7 +5,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 
 
-|        Project name         |    Live link   |    Repo link   |
+|        Project name         |   Repo link   |    Live demo   |
 |:----------------------------|:--------------:|:--------------:|
 | 1. Age calculator app       | [click here](https://github.com/codeevoyager/fmc-age-calculator-app) | [click here](https://age-calculator-app-codeevoyager.vercel.app) |
 | 2. Summary component        | [click here](https://github.com/codeevoyager/fmc-result-summary-component) | [click here](https://result-summary-component-codeevoyager.vercel.app) |

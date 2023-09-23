@@ -22,7 +22,7 @@ p{
 
 h1{
     text-align: center;
-    margin: 2rem; 
+    margin: 1rem; 
 }
 
 .project-grid{
@@ -38,7 +38,7 @@ h1{
 }
 
 img{
-    height: 300px;
+    height: 250px;
     width: 100%;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
