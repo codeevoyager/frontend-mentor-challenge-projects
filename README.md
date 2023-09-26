@@ -12,3 +12,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 | 3. Profile card component   | [click here](https://github.com/codeevoyager/fmc-profile-card-component) | [click here](https://profile-card-component-codeevoyager.vercel.app) |
 | 4. QR code component        | [click here](https://github.com/codeevoyager/fmc-qr-code-component) | [click here](https://qr-code-component-codeevoyager.vercel.app) |
 | 5. Notification page        | [click here](https://github.com/codeevoyager/fmc-notification-page) | [click here](https://notification-page-codeevoyager.vercel.app) |
+
+## Preview
+
+[![preview-img](./preview/frontend-mentor-projects-preview.png)](https://frontend-mentor-challenge-projects-codeevoyager.vercel.app/)
